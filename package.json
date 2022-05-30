@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-base-custom-plugin",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "base-custom-plugin",
+    "description": ""
+  },
+  "main": "main.js"
+}
